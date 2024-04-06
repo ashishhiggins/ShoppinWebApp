@@ -11,6 +11,7 @@
     <groupId>com.AshishHIggins</groupId>
     <artifactId>ShoppinWebApp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>ShoppinWebApp</name>
     <description>ShoppinWebApp</description>
     <properties>
